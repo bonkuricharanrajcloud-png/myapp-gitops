@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: charan1224/myapp:2
+          image: charan1224/myapp:3
           ports:
             - containerPort: 80
